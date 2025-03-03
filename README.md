@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Randy Daneil Ciprian Salcedo!
+# 👋 ¡Hola, soy Randy Daniel Ciprian Salcedo!
 
 ![Python](https://img.shields.io/badge/Python-Developer-blue.svg)
 ![Odoo](https://img.shields.io/badge/Odoo-Expert-purple.svg)

@@ -19,7 +19,7 @@
 - 🚀 Docker | Git | Linux
 
 ---
-📌 **[PORTAFOLIO - Randy Ciprián](https://randyciprian.netlify.app/)** - Portfolio
+📌 **[PORTAFOLIO - Randy Ciprian](https://randyciprian.netlify.app/)** - Portfolio
 ---
 ## 📌 Proyectos Destacados
 📌 **[Mi Gestor de Inventarios](https://github.com/tu-usuario/mi-gestor-inventarios)** - Un sistema eficiente para la gestión de inventarios.

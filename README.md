@@ -19,11 +19,13 @@
 - 🚀 Docker | Git | Linux
 
 ---
-
+📌 **[PORTAFOLIO - Randy Ciprián](https://randyciprian.netlify.app/)** - Portfolio
+---
 ## 📌 Proyectos Destacados
 📌 **[Mi Gestor de Inventarios](https://github.com/tu-usuario/mi-gestor-inventarios)** - Un sistema eficiente para la gestión de inventarios.
 📌 **[Automatización con Odoo](https://github.com/tu-usuario/automatizacion-odoo)** - Scripts avanzados para Odoo mediante XML-RPC.
 📌 **[Flask Chatbot en Inglés](https://github.com/tu-usuario/flask-chatbot)** - Un bot de IA para practicar inglés con voz y texto.
+
 
 ---
 

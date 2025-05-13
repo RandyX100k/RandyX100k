@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://img.icons8.com/ios-filled/50/7952B3/odoo.png" width="40" title="Odoo"/>
+  <img src="https://images.seeklogo.com/logo-png/32/2/odoo-logo-png_seeklogo-320087.png" width="40" title="Odoo"/>
   <img src="https://img.icons8.com/fluency/48/000000/flask.png" width="40" title="Flask"/>
   <img src="https://img.icons8.com/fluency/48/000000/api.png" width="40" title="FastAPI"/>
 </p>

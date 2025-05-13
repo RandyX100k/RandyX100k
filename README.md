@@ -1,6 +1,10 @@
 <h1 align="center">👋 ¡Hola, soy Randy Daniel Ciprian Salcedo!</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="250" alt="Developer Randy" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-blue.svg" />
   <img src="https://img.shields.io/badge/Odoo-Expert-purple.svg" />
   <img src="https://img.shields.io/badge/Full--Stack-Developer-orange.svg" />
@@ -13,6 +17,7 @@
   <a href="https://www.linkedin.com/in/randy-ciprian-85ab07278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-RandyCiprian-blue?logo=linkedin" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=RandyX100k&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -27,17 +32,19 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://img.icons8.com/ios-filled/50/7952B3/odoo.png" width="40" title="Odoo"/>
+  <img src="https://img.icons8.com/fluency/48/000000/flask.png" width="40" title="Flask"/>
+  <img src="https://img.icons8.com/fluency/48/000000/api.png" width="40" title="FastAPI"/>
 </p>
 
 ---
@@ -47,6 +54,15 @@
 - 📌 [Mi Gestor de Inventarios](https://github.com/tu-usuario/mi-gestor-inventarios) – Sistema eficiente de inventario.
 - 📌 [Automatización con Odoo](https://github.com/tu-usuario/automatizacion-odoo) – Scripts XML-RPC para automatizar Odoo.
 - 📌 [Flask Chatbot en Inglés](https://github.com/tu-usuario/flask-chatbot) – Bot de IA para practicar inglés.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RandyX100k&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandyX100k&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 

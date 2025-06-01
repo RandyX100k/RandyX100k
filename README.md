@@ -51,9 +51,8 @@
 
 ## 📌 Proyectos Destacados
 
-- 📌 [Mi Gestor de Inventarios](https://github.com/tu-usuario/mi-gestor-inventarios) – Sistema eficiente de inventario.
-- 📌 [Automatización con Odoo](https://github.com/tu-usuario/automatizacion-odoo) – Scripts XML-RPC para automatizar Odoo.
-- 📌 [Flask Chatbot en Inglés](https://github.com/tu-usuario/flask-chatbot) – Bot de IA para practicar inglés.
+- 📌 [Mi Gestor de Inventarios](https://ecommerce-villar-nz9h.onrender.com/) – Sistema eficiente de inventario alimentado desde odoo.
+- 📌 [ECOMERCE-OPTICA VILLAR CON PASARELA DE PAGO](https://tienda.opticavillar.com/) – Ecomerce para reserva lentes online.
 
 ---
 

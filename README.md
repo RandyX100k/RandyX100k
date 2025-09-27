@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola, soy Randy Daniel Ciprian Salcedo!</h1>
 
 <p align="center">
-  <img src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" width="250" alt="Developer Randy" />
+  <img src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" width="250" alt="Developer Randy" style="border-radius:5 rem;"/>
 </p>
 
 <p align="center">

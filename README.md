@@ -50,7 +50,7 @@
 
   <!-- Odoo / OWL -->
   <img src="https://img.utdstc.com/icon/390/bef/390bef65bfd085818f4e1bb65eea8ad81d8eaef33f8c5cf45179c43543aa9ca8:200" width="40" title="Odoo"/>
-  <img src="https://raw.githubusercontent.com/odoo/owl/master/docs/_static/logo.png" width="40" title="OwlJS (Odoo Web Library)"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1864/1864521.png" width="40" title="OwlJS (Odoo Web Library)"/>
 
   <!-- Base de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>

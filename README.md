@@ -26,10 +26,13 @@
 
 ## 🚀 Sobre mí
 
-- 💡 Desarrollador apasionado con experiencia en **Python**, **Odoo** y desarrollo **Full Stack**.
-- 🧠 En constante aprendizaje sobre nuevas tecnologías y frameworks modernos.
-- 🧩 Actualmente trabajando con **Odoo**, **Flask**, **React Native**, **OwlJS** y **automatización de procesos**.
-- 💬 Me encanta compartir conocimientos sobre **arquitectura backend**, **APIs REST** y **desarrollo modular**.
+💡 Desarrollador apasionado con experiencia en Python, Odoo y desarrollo Full Stack.
+
+🎓 Instructor de Odemu en Odoo, formando a más de 100 alumnos en desarrollo y personalización del ERP.
+
+🧠 En constante aprendizaje sobre nuevas tecnologías y frameworks modernos.
+
+🧩 Actualmente trabajando con Odoo, Flask, React Native, OwlJS y automatización de procesos.
 
 ---
 

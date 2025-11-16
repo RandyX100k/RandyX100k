@@ -28,7 +28,7 @@
 
 💡 Desarrollador apasionado con experiencia en Python, Odoo y desarrollo Full Stack.
 
-🎓 Instructor de Odemu en Odoo, formando a más de 100 alumnos en desarrollo y personalización del ERP.
+🎓 Instructor de Udemy en Odoo, formando a más de 100 alumnos en desarrollo y personalización del ERP.
 
 🧠 En constante aprendizaje sobre nuevas tecnologías y frameworks modernos.
 

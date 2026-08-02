@@ -1,96 +1,173 @@
 <h1 align="center">👋 ¡Hola, soy Randy Daniel Ciprian Salcedo!</h1>
 
 <p align="center">
-  <img src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" width="250" alt="Developer Randy" style="border-radius: 5rem;"/>
+  <img src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" width="250" alt="Developer Randy"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-blue.svg" />
-  <img src="https://img.shields.io/badge/Odoo-Expert-purple.svg" />
+  <img src="https://img.shields.io/badge/Odoo-Expert-875A7B.svg" />
   <img src="https://img.shields.io/badge/Full--Stack-Developer-orange.svg" />
   <img src="https://img.shields.io/badge/React--Native-Mobile--Apps-success.svg" />
-  <img src="https://img.shields.io/badge/Owl--JS-Frontend-lightgrey.svg" />
+  <img src="https://img.shields.io/badge/OWL.js-Odoo%20Frontend-lightgrey.svg" />
 </p>
 
 <p align="center">
   <a href="https://randyciprian.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portafolio-Web-informational?style=flat&logo=github&color=blue" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Website-blue" />
   </a>
   <a href="https://www.linkedin.com/in/randy-ciprian-85ab07278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-RandyCiprian-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Randy%20Ciprian-blue?logo=linkedin" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=RandyX100k&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RandyX100k&color=blue" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
-💡 Desarrollador apasionado con experiencia en Python, Odoo y desarrollo Full Stack.
+Soy **Full Stack Developer** especializado en **Python, Odoo y desarrollo de soluciones empresariales**.
 
-🎓 Instructor de Udemy en Odoo, formando a más de 200 alumnos en desarrollo y personalización del ERP.
+Me apasiona crear sistemas escalables, automatizar procesos y desarrollar integraciones complejas utilizando APIs.
 
-🧠 En constante aprendizaje sobre nuevas tecnologías y frameworks modernos.
+Actualmente trabajo desarrollando soluciones para empresas utilizando:
 
-🧩 Actualmente trabajando con Odoo, Flask, React Native, OwlJS y automatización de procesos.
+- 🐍 Python
+- 🟣 Odoo (Backend & OWL Frontend)
+- ⚛️ React Native
+- 🌐 Flask
+- 🐘 PostgreSQL
+- ☁️ Docker & Linux
+
+Además soy instructor de **Udemy**, donde he ayudado a cientos de estudiantes a aprender desarrollo con Odoo.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+# 🛠 Tecnologías
 
 <p align="center">
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://img.icons8.com/fluency/48/000000/flask.png" width="40" title="Flask"/>
-  <img src="https://img.icons8.com/fluency/48/000000/api.png" width="40" title="FastAPI"/>
-  
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 
-  <!-- Odoo / OWL -->
-  <img src="https://img.utdstc.com/icon/390/bef/390bef65bfd085818f4e1bb65eea8ad81d8eaef33f8c5cf45179c43543aa9ca8:200" width="40" title="Odoo"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1864/1864521.png" width="40" title="OwlJS (Odoo Web Library)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
 
-  <!-- Base de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+<img src="https://img.icons8.com/fluency/48/flask.png" width="42"/>
 
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+
+<img src="https://img.icons8.com/color/48/react-native.png" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+
+<img src="https://img.utdstc.com/icon/390/bef/390bef65bfd085818f4e1bb65eea8ad81d8eaef33f8c5cf45179c43543aa9ca8:200" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+
 </p>
 
 ---
 
-## 📌 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
-- 🧾 **[Gestor de Inventarios](https://ecommerce-villar-nz9h.onrender.com/)** – Sistema eficiente de inventario sincronizado con **Odoo**.
-- 🕶️ **[E-commerce Óptica Villar](https://tienda.opticavillar.com/)** – Tienda online con pasarela de pago y reservas de lentes.
-- 📱 **App Móvil con React Native (en desarrollo)** – Aplicación multiplataforma conectada a backend Flask/Odoo vía API REST.
+## 🇨🇷 Acoraza CR
+Sistema ERP y plataforma empresarial desarrollada sobre Odoo.
+
+🔗 https://acorazacr.com/
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🐎 El Chalán Perú
+
+Implementación completa de Odoo para gestión empresarial.
+
+🔗 https://elchalanpe-odoo.odoo.com
+
+---
+
+## 🏢 Romani SAC
+
+ERP empresarial desarrollado e implementado en Odoo.
+
+🔗 https://romanisac-odoo.odoo.com
+
+---
+
+## 🇩🇴 Integración DGII - Facturación Electrónica
+
+Desarrollo de una integración completa con la **DGII República Dominicana** para emisión de **e-CF**.
+
+### Características
+
+- Emisión de e-CF
+- Firma Digital XML
+- Generación de QR
+- Consulta de estados
+- Notas de Crédito
+- Notas de Débito
+- API REST
+- Integración con Odoo
+- Automatización del proceso de facturación electrónica
+
+---
+
+## 📦 Desarrollo de APIs Empresariales
+
+He desarrollado múltiples APIs REST para:
+
+- ERP
+- Inventarios
+- Clientes
+- Ventas
+- Contabilidad
+- Integraciones con terceros
+- Automatización de procesos
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandyX100k&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandyX100k&layout=compact&theme=radical" alt="Top Langs" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RandyX100k&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandyX100k&layout=compact&theme=radical"/>
+
 </p>
 
 ---
 
-## 📬 Contacto
+# 📫 Contacto
 
-- 📧 **Correo:** [ciprianrandy@gmail.com](mailto:ciprianrandy@gmail.com)  
-- 👨‍💻 **GitHub:** [RandyX100k](https://github.com/RandyX100k)  
-- 💼 **LinkedIn:** [Randy Ciprian](https://www.linkedin.com/in/randy-ciprian-85ab07278/)  
-- 🌍 **Portafolio:** [randyciprian.netlify.app](https://randyciprian.netlify.app/)
+📧 **Email**
+
+**ciprianrandy@gmail.com**
+
+🌐 **Portafolio**
+
+https://randyciprian.netlify.app/
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/randy-ciprian-85ab07278/
+
+👨‍💻 **GitHub**
+
+https://github.com/RandyX100k
 
 ---
 
-<p align="center">✨ ¡Gracias por visitar mi perfil! 🚀 Sígueme para más proyectos e innovación. ✨</p>
+<h2 align="center">
+💻 "Building business solutions with Python & Odoo."
+</h2>
+
+<p align="center">
+⭐ Si te gustan mis proyectos, ¡no olvides dejar una estrella!
+</p>

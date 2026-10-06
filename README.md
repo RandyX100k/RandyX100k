@@ -1,38 +1,34 @@
-\<h1 align="center">👋 ¡Hola! Soy Randy Daniel Ciprian Salcedo\</h1>
+<h1 align="center">👋 ¡Hola! Soy Randy Daniel Ciprian Salcedo</h1>
 
-\<h3 align="center">
+<h3 align="center">
 Odoo ERP Engineer • Python Developer • API & Integration Specialist • Full Stack Developer
-\</h3>
+</h3>
 
-\<p align="center">
+<p align="center">
 Construyo soluciones empresariales, integraciones, APIs y sistemas ERP utilizando Odoo, Python y tecnologías modernas.
-\</p>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Odoo%2018-Certified-875A7B?style=for-the-badge&logo=odoo&logoColor=white](https://img.shields.io/badge/Odoo%2018-Certified-875A7B?style=for-the-badge\&logo=odoo\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Odoo%2019-Certified-714B67?style=for-the-badge&logo=odoo&logoColor=white](https://img.shields.io/badge/Odoo%2019-Certified-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/>
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo%2018-Certified-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo%2019-Certified-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://randyciprian.netlify.app](https://randyciprian.netlify.app)">
-&#x20;   \<img src="[https://img.shields.io/badge/🌐%20Portfolio-Website-blue](https://img.shields.io/badge/🌐%20Portfolio-Website-blue)"/>
-&#x20; \</a>
-
-&#x20; \<a href="[https://www.linkedin.com/in/randy-ciprian-85ab07278/](https://www.linkedin.com/in/randy-ciprian-85ab07278/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Randy%20Ciprian-blue?logo=linkedin](https://img.shields.io/badge/LinkedIn-Randy%20Ciprian-blue?logo=linkedin)"/>
-&#x20; \</a>
-
-&#x20; \<a href="[https://www.udemy.com/user/randy-ciprian/](https://www.udemy.com/user/randy-ciprian/)">
-&#x20;   \<img src="[https://img.shields.io/badge/Udemy-Instructor-A435F0?logo=udemy&logoColor=white](https://img.shields.io/badge/Udemy-Instructor-A435F0?logo=udemy\&logoColor=white)"/>
-&#x20; \</a>
-
-&#x20; \<a href="[https://github.com/RandyX100k](https://github.com/RandyX100k)">
-&#x20;   \<img src="[https://img.shields.io/github/followers/RandyX100k?label=Followers&style=social](https://img.shields.io/github/followers/RandyX100k?label=Followers\&style=social)"/>
-&#x20; \</a>
-
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=RandyX100k&color=blue](https://komarev.com/ghpvc/?username=RandyX100k\&color=blue)"/>
-\</p>
+<p align="center">
+  <a href="https://randyciprian.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/randy-ciprian-85ab07278/">
+    <img src="https://img.shields.io/badge/LinkedIn-Randy%20Ciprian-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.udemy.com/user/randy-ciprian/">
+    <img src="https://img.shields.io/badge/Udemy-Instructor-A435F0?logo=udemy&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RandyX100k">
+    <img src="https://img.shields.io/github/followers/RandyX100k?label=Followers&style=social"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RandyX100k&color=blue&label=Profile+Views"/>
+</p>
 
 ---
 
@@ -59,19 +55,30 @@ También soy **Instructor en Udemy**, donde comparto conocimientos relacionados 
 
 # 🏆 Certificaciones
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Odoo%2018-Certified-875A7B?style=for-the-badge&logo=odoo&logoColor=white](https://img.shields.io/badge/Odoo%2018-Certified-875A7B?style=for-the-badge\&logo=odoo\&logoColor=white)"/>
-&#x20; &nbsp;
-&#x20; \<img src="[https://img.shields.io/badge/Odoo%2019-Certified-714B67?style=for-the-badge&logo=odoo&logoColor=white](https://img.shields.io/badge/Odoo%2019-Certified-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)"/>
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo%2018-Certified-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Odoo%2019-Certified-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+</p>
 
-### 🟣 Odoo 18 Certified
+## 🟣 Odoo 18 Certified
 
-Conocimientos funcionales y técnicos del ecosistema Odoo, incluyendo CRM, Ventas, Compras, Inventario, Contabilidad, RRHH, Website, eCommerce, POS y Studio.
+Certificación en **Odoo 18**, con conocimientos del ecosistema Odoo y sus principales procesos empresariales:
 
-### 🟣 Odoo 19 Certified
+- CRM
+- Ventas
+- Compras
+- Inventario
+- Contabilidad
+- Recursos Humanos
+- Website
+- eCommerce
+- POS
+- Studio
 
-Certificación en la nueva generación de Odoo, fortaleciendo conocimientos sobre procesos empresariales, configuración funcional, automatización y arquitectura del ERP.
+## 🟣 Odoo 19 Certified
+
+Certificación en **Odoo 19**, fortaleciendo conocimientos sobre procesos empresariales, configuración funcional, automatización y las nuevas capacidades del ecosistema Odoo.
 
 ---
 
@@ -104,6 +111,8 @@ Certificación en la nueva generación de Odoo, fortaleciendo conocimientos sobr
 # 💼 Áreas de Especialización
 
 ## 🟣 Odoo ERP Engineering
+
+Desarrollo e implementación de soluciones empresariales sobre Odoo.
 
 - Desarrollo de módulos personalizados
 - Odoo 17 / 18 / 19
@@ -144,7 +153,7 @@ Experiencia con:
 
 ---
 
-## 🇩🇴 Facturación Electrónica / DGII
+# 🇩🇴 Facturación Electrónica / DGII
 
 Desarrollo de soluciones de **Facturación Electrónica para República Dominicana**, integradas con sistemas ERP y plataformas externas.
 
@@ -179,98 +188,116 @@ ERP / eCommerce / Mobile App
             ▼
    Electronic Invoice
             │
-      XML + Digital Sign
+            ▼
+   XML + Digital Signature
             │
             ▼
            DGII
             │
             ▼
- Status / QR / Validation
+   Status / QR / Validation
 ```
 
 ---
 
 # ⚡ What I Build
 
-### 🏢 Enterprise ERP Solutions
+## 🏢 Enterprise ERP Solutions
 
-Diseño e implementación de soluciones empresariales completas utilizando Odoo.
+Diseño e implementación de soluciones empresariales completas utilizando **Odoo**.
 
-### 🔌 Business APIs
+Desde el levantamiento de requerimientos hasta el desarrollo, integración y puesta en producción.
 
-APIs REST para conectar ERP, aplicaciones móviles, eCommerce y plataformas externas.
+## 🔌 Business APIs
 
-### 🇩🇴 Electronic Invoicing Systems
+Diseño y desarrollo de **APIs REST** para conectar:
 
-Sistemas de Facturación Electrónica integrados con la DGII y plataformas empresariales.
+- ERP
+- Aplicaciones móviles
+- eCommerce
+- Plataformas web
+- Sistemas externos
+- Servicios de terceros
 
-### 🧩 Custom Odoo Modules
+## 🇩🇴 Electronic Invoicing Systems
 
-Módulos personalizados para ventas, compras, inventario, contabilidad, POS, eCommerce y operaciones empresariales.
+Desarrollo de sistemas de **Facturación Electrónica** integrados con plataformas empresariales y servicios fiscales de República Dominicana.
 
-### 📱 Mobile Applications
+## 🧩 Custom Odoo Modules
 
-Aplicaciones móviles desarrolladas con **React Native** conectadas mediante APIs con sistemas empresariales.
+Desarrollo de módulos personalizados para:
 
-### 🤖 Business Automation
+- Ventas
+- Compras
+- Inventario
+- Contabilidad
+- POS
+- CRM
+- eCommerce
+- Operaciones empresariales
 
-Automatización de procesos mediante **Python, Odoo e Inteligencia Artificial**.
+## 📱 Mobile Applications
 
-### ☁️ ERP Infrastructure
+Aplicaciones móviles desarrolladas con **React Native**, conectadas mediante APIs con sistemas ERP y plataformas empresariales.
 
-Configuración y despliegue de infraestructuras Odoo en servidores Linux, VPS y Odoo.sh.
+## 🤖 Business Automation
+
+Automatización de procesos mediante:
+
+- Python
+- Odoo
+- APIs
+- Integraciones
+- Inteligencia Artificial
+
+## ☁️ ERP Infrastructure
+
+Configuración y despliegue de infraestructuras Odoo en:
+
+- Linux
+- VPS
+- Odoo.sh
+- Nginx
+- PostgreSQL
+- Docker
 
 ---
 
 # 🛠️ Tech Stack
 
-\<p align="center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+</p>
 
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="50"/>
-
-\<img src="[https://img.icons8.com/fluency/48/flask.png](https://img.icons8.com/fluency/48/flask.png)" width="50"/>
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" width="50"/>
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" width="50"/>
-
-\<img src="[https://img.icons8.com/color/48/react-native.png](https://img.icons8.com/color/48/react-native.png)" width="50"/>
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" width="50"/>
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" width="50"/>
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" width="50"/>
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" width="50"/>
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" width="50"/>
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" width="50"/>
-
-\</p>
-
-### Backend
+### 🐍 Backend
 
 `Python` • `Odoo ORM` • `Flask` • `REST APIs`
 
-### Frontend
+### 🌐 Frontend
 
 `JavaScript` • `OWL` • `HTML5` • `CSS3`
 
-### Mobile
+### 📱 Mobile
 
 `React Native`
 
-### Database
+### 🗄️ Database
 
 `PostgreSQL`
 
-### DevOps
+### ☁️ DevOps
 
 `Linux` • `Ubuntu` • `Docker` • `Nginx` • `Git` • `GitHub` • `SSH` • `SSL`
 
-### ERP
+### 🟣 ERP
 
 `Odoo 17` • `Odoo 18` • `Odoo 19` • `Odoo.sh`
 
@@ -278,28 +305,31 @@ Configuración y despliegue de infraestructuras Odoo en servidores Linux, VPS y 
 
 # ☁️ DevOps & Deployment
 
-Además del desarrollo, trabajo con infraestructura para llevar soluciones desde desarrollo hasta producción.
+Además del desarrollo de software, trabajo con infraestructura para llevar soluciones desde **desarrollo hasta producción**.
 
 ```text
-Development
-     │
-     ▼
-Git / GitHub
-     │
-     ▼
-Linux Server / Odoo.sh
-     │
-     ├── Odoo
-     ├── PostgreSQL
-     ├── Nginx
-     ├── SSL / HTTPS
-     └── Custom Modules
-     │
-     ▼
-Production
+        Development
+             │
+             ▼
+        Git / GitHub
+             │
+             ▼
+    Linux Server / Odoo.sh
+             │
+     ┌───────┼────────┐
+     │       │        │
+     ▼       ▼        ▼
+   Odoo  PostgreSQL  Nginx
+     │                │
+     └───────┬────────┘
+             ▼
+        SSL / HTTPS
+             │
+             ▼
+        Production
 ```
 
-Experiencia con:
+### Experiencia con
 
 - 🐧 Linux / Ubuntu
 - 🌐 Nginx
@@ -320,52 +350,64 @@ Experiencia con:
 
 ERP empresarial desarrollado sobre **Odoo**, incluyendo personalizaciones, automatizaciones e integraciones.
 
-🌐 [https://acorazacr.com/](https://acorazacr.com/)
+🌐 [acorazacr.com](https://acorazacr.com/)
 
 ---
 
 ## 🐎 El Chalán Perú
 
-Implementación de Odoo para la gestión integral de operaciones empresariales.
+Implementación de **Odoo** para la gestión integral de operaciones empresariales.
 
-🌐 [https://elchalanpe-odoo.odoo.com](https://elchalanpe-odoo.odoo.com)
+🌐 [elchalanpe-odoo.odoo.com](https://elchalanpe-odoo.odoo.com)
 
 ---
 
 ## 🏢 Romani SAC
 
-Desarrollo e implementación de ERP empresarial sobre Odoo.
+Desarrollo e implementación de ERP empresarial sobre **Odoo**.
 
-🌐 [https://romanisac-odoo.odoo.com](https://romanisac-odoo.odoo.com)
+🌐 [romanisac-odoo.odoo.com](https://romanisac-odoo.odoo.com)
 
 ---
 
 ## 🇩🇴 Integración DGII — Facturación Electrónica
 
-Desarrollo de una arquitectura de Facturación Electrónica capaz de conectar **Odoo y otras plataformas empresariales con servicios fiscales de República Dominicana**.
+Desarrollo de una arquitectura de **Facturación Electrónica** capaz de conectar Odoo y otras plataformas empresariales con servicios fiscales de República Dominicana.
 
-Tecnologías principales:
+### Tecnologías
 
 `Python` • `Odoo` • `REST API` • `XML` • `Digital Signature` • `QR` • `PostgreSQL`
 
+### Capacidades
+
+- Generación de e-CF
+- Firma digital
+- Generación de QR
+- Validación de documentos
+- Comunicación mediante API
+- Manejo de estados
+- Notas de Crédito
+- Notas de Débito
+- Integración con sistemas externos
+
 ---
 
-## 🔌 APIs Empresariales
+# 🔌 APIs Empresariales
 
-Desarrollo de APIs e integraciones para:
+He desarrollado APIs e integraciones orientadas a diferentes áreas empresariales:
 
-- ERP
-- Facturación Electrónica
-- Inventario
-- Clientes
-- Proveedores
-- Compras
-- Ventas
-- Contabilidad
-- Aplicaciones móviles
-- eCommerce
-- Sistemas externos
-- Automatización de procesos
+- 🏢 ERP
+- 🇩🇴 Facturación Electrónica
+- 📦 Inventarios
+- 👥 Clientes
+- 🚚 Proveedores
+- 🛒 Compras
+- 💰 Ventas
+- 📊 Contabilidad
+- 📱 Aplicaciones móviles
+- 🌐 eCommerce
+- 🔗 Sistemas externos
+- ⚡ Automatización de procesos
 
 ---
 
@@ -373,13 +415,17 @@ Desarrollo de APIs e integraciones para:
 
 He participado en proyectos e implementaciones para empresas de diferentes países:
 
+<p align="center">
+
 🇩🇴 **República Dominicana**
 
 🇨🇷 **Costa Rica**
 
 🇵🇪 **Perú**
 
-Trabajando con diferentes procesos empresariales, requerimientos fiscales e integraciones.
+</p>
+
+Trabajando con diferentes procesos empresariales, requerimientos fiscales, desarrollos personalizados e integraciones.
 
 ---
 
@@ -387,11 +433,23 @@ Trabajando con diferentes procesos empresariales, requerimientos fiscales e inte
 
 Además del desarrollo de software, comparto conocimientos mediante cursos prácticos relacionados con **Odoo y Python**.
 
-\<p align="center">
-&#x20; \<a href="[https://www.udemy.com/user/randy-ciprian/](https://www.udemy.com/user/randy-ciprian/)">
-&#x20;   \<img src="[https://img.shields.io/badge/Udemy-Ver%20mis%20cursos-A435F0?style=for-the-badge&logo=udemy&logoColor=white](https://img.shields.io/badge/Udemy-Ver%20mis%20cursos-A435F0?style=for-the-badge\&logo=udemy\&logoColor=white)"/>
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://www.udemy.com/user/randy-ciprian/">
+    <img src="https://img.shields.io/badge/Udemy-Ver%20mis%20cursos-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📈 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RandyX100k&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandyX100k&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
@@ -412,37 +470,60 @@ Además del desarrollo de software, comparto conocimientos mediante cursos prác
 
 Continuar construyendo soluciones tecnológicas capaces de **resolver problemas empresariales reales, automatizar operaciones y conectar diferentes plataformas mediante arquitecturas escalables**.
 
-Mi enfoque no es solamente desarrollar software, sino crear soluciones que puedan ser utilizadas diariamente por empresas reales.
+Mi enfoque no es solamente desarrollar software, sino crear **soluciones utilizadas diariamente por empresas reales**.
+
+> **Build technology that solves real business problems.**
+
+---
+
+# 🤝 ¿Trabajamos juntos?
+
+Estoy abierto a colaborar en proyectos relacionados con:
+
+- 🟣 Implementaciones Odoo
+- 🧩 Desarrollo de módulos personalizados
+- 🔌 Integraciones API
+- 🇩🇴 Facturación Electrónica
+- 🏢 ERP
+- 📱 Aplicaciones móviles
+- ☁️ Infraestructura Odoo
+- 🤖 Automatización empresarial
 
 ---
 
 # 📫 Contacto
 
-📧 **Email**
-**[ciprianrandy@gmail.com](mailto\:ciprianrandy@gmail.com)**
+<p align="center">
+  <a href="mailto:ciprianrandy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ciprianrandy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-🌐 **Portfolio**
-[https://randyciprian.netlify.app/](https://randyciprian.netlify.app/)
-
-💼 **LinkedIn**
-[https://www.linkedin.com/in/randy-ciprian-85ab07278/](https://www.linkedin.com/in/randy-ciprian-85ab07278/)
-
-🎓 **Udemy**
-[https://www.udemy.com/user/randy-ciprian/](https://www.udemy.com/user/randy-ciprian/)
-
-👨‍💻 **GitHub**
-[https://github.com/RandyX100k](https://github.com/RandyX100k)
+<p align="center">
+  <a href="https://randyciprian.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visitar-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/randy-ciprian-85ab07278/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.udemy.com/user/randy-ciprian/">
+    <img src="https://img.shields.io/badge/Udemy-Cursos-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RandyX100k">
+    <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-\<h2 align="center">
+<h2 align="center">
 💻 Building Business Solutions with Python, Odoo & Modern Technologies 🚀
-\</h2>
+</h2>
 
-\<p align="center">
+<p align="center">
 Transformando procesos empresariales en soluciones tecnológicas escalables.
-\</p>
+</p>
 
-\<p align="center">
+<p align="center">
 ⭐ Si alguno de mis proyectos te resulta interesante, puedes seguirme o contactarme para colaborar.
-\</p>
+</p>
